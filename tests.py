@@ -87,4 +87,5 @@ class ProductTest(TestCase):
         self.assertFalse(f.is_valid())
         self.product['bar_occupancy'] = 1
 
+        
 
