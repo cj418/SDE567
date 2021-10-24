@@ -88,4 +88,3 @@ class ProductTest(TestCase):
         self.product['bar_occupancy'] = 1
 
         
-
